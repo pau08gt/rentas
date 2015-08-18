@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace Rentas;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
